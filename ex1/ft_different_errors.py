@@ -1,7 +1,7 @@
 def garden_operations():
 
     try:
-        int(input("Enter a number: "))
+        int("42college")
     except ValueError:
         print("Testing ValueError...")
         print("Caught ValueError: invalid literal for int()\n")
