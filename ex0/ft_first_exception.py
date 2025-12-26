@@ -29,4 +29,5 @@ def test_temperature_input():
 
 
 if __name__ == "__main__":
+    print("=== Garden Temperature Checker ===")
     test_temperature_input()
